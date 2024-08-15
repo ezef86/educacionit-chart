@@ -14,6 +14,8 @@ entries:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2024-08-15T20:12:32.067398-03:00"
+    appVersion: 1.16.0
+    created: "2024-08-15T19:45:20.848955-03:00"
     description: A Helm chart for DevOps Bootcamp - EducacionIT
     digest: d06db5a71879cb670f134d61dec533ed8e2730795a14048766f148a42c39e8a7
     name: educacionit-chart
